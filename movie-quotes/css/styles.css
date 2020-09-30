@@ -1,0 +1,33 @@
+p {
+    color: white;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 1000px;
+    font: courier;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: left;
+    margin-left: 450px;
+    color: white;
+}
+.line{
+    text-align: left;
+}
+.name{
+    text-transform : uppercase;
+    font-weight: bold;
+}
+head { border: 10
+}
+body{
+    background-image: url("https://wallup.net/wp-content/uploads/2017/11/17/212978-Ghostbusters-748x468.jpg");
+    background-size: 1650px
+}
+img{
+    height: 250px;
+    margin-left: 260px;
+}
