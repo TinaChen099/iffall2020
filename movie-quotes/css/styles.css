@@ -10,8 +10,9 @@ h1 {
     text-align: center;
 }
 h2 {
-    text-align: left;
-    margin-left: 450px;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 1000px;
     color: white;
 }
 .line{
