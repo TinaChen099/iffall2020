@@ -1,0 +1,44 @@
+p{
+    text-align: center;
+    line-height: 8px;
+    font-family: 'Cabin Sketch', cursive;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    text-align:center;
+    color: rgb(145, 43, 57);
+    font-size: 50px
+}
+h2{
+    text-align:center;
+    color: rgb(207, 119, 119);
+    font-size: 30px;
+    font-family: 'Cabin Sketch', cursive;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(238, 214, 214);
+}
+.eiffel{
+    width: 100%;
+}
+.rose{
+    height:70px;
+}
+.color{
+    color: rgb(131, 58, 58);
+}
+.chorus{
+    color: rgb(91, 44, 105);
+    font-style: italic;
+    text-transform: uppercase;
+}
+.end{
+    text-decoration: underline;
+}
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
