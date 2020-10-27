@@ -1,0 +1,111 @@
+body{
+    font-family: 'Archivo Narrow', sans-serif;
+}
+header{
+    background-image: url("https://ca-times.brightspotcdn.com/dims4/default/c264262/2147483647/strip/true/crop/1061x439+0+0/resize/840x348!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0a%2F5c%2F7ca822db4d819d62912fdfff6dd6%2Fhalloween-cover.jpg");
+    background-size: 1800px;
+    text-align: center;
+    padding-top: 98px;
+    padding-bottom: 52px;
+    height: 330px;
+    color: white;
+}
+h1{
+    font-size: 60pt;
+    margin-bottom:0px;
+    color: white;
+}
+h2{
+    font-size: 22.5pt;
+    margin-top:-3px;
+}
+h3{
+    text-align:center;
+    font-size: 30pt;
+    margin-bottom:32px;
+}
+h3{
+    color: lightgrey;
+}
+.pumpkin-section p{
+    font-size: 12.7pt;
+    font-weight: 600;
+    line-height: 25px;
+    color:lightgrey;
+
+}
+.column-container{
+    width: 960px;
+    margin: auto;
+}
+.pumpkin{
+    float: right;
+    margin-left:  2.5rem;
+    margin-bottom: 2rem;
+}
+.pumpkin-section{
+    background-color:black;
+    padding-top:1px;
+    padding-bottom: 40px;
+}
+.third{
+    margin-top: 1px;
+}
+.second{
+    margin-bottom: 14px;
+}
+.grid-section{
+    display: grid;
+    padding: 0;
+    grid-template-columns: 1fr 1fr;
+}
+.grid-section li{
+    display: block;
+    margin-bottom: 25px;
+    margin-right: 30px;
+}
+
+li img{
+    float: left;
+    margin-right: 12px;
+}
+.grid-section div:first-of-type{
+    font-size: 20.5px;
+    font-weight: 600;
+    margin-bottom: 9px;
+    color: white;
+}
+.grid-section div:last-of-type{
+    font-weight: 500;
+    font-size: 17.5px;
+    line-height: 24.9px;
+    color: grey;
+}
+.grid{
+    background-color: rgb(58, 22, 22);
+    padding-top: 1px;
+    padding-bottom: 21px;
+}
+.last-section{
+    margin: auto;
+    width:713px;
+}
+.last-section p{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 36px;
+}
+.conclusion{
+    background-color: rgba(58, 44, 68);
+    padding-top: 1px;
+    padding-bottom: 73px;
+    color: white;
+}
+footer{
+    background-color:black;
+    padding-top: 42px;
+    padding-bottom: 40px;
+    font-size:18px;
+    color: grey;
+}
